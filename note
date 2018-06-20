@@ -1,0 +1,1 @@
+如果运行mapreduce程序时，报ClassNotFount的异常，你可以将依赖的第三方包放到hadoop的安装目录下的/share/hadoop/common/lib这个目录即可解决问题！
